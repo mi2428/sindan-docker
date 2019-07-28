@@ -11,6 +11,8 @@ RUN apk add --no-cache --update mariadb-connector-c \
       build-base ruby-dev mariadb-dev mariadb-connector-c \
  && gem install fluent-plugin-http-heartbeat \
  && gem install fluent-plugin-mysql \
+ && gem install fluent-plugin-bufferize \
+ && gem install fluent-plugin-out-http \
  && gem sources --clear-all \
  && apk del .build-deps \
  && rm -rf /tmp/* /var/tmp/* /usr/lib/ruby/gems/*/cache/*.gem
