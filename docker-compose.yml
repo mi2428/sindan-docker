@@ -62,6 +62,19 @@ services:
     labels:
       com.sindan-net.description: "Storing diagnosis logs for sindan-visualization"
 
+  influxdb:
+    image: quay.io/influxdb/influxdb:2.0.0-alpha
+    hostname: sindan-influxdb
+    restart: always
+    ports:
+      - '8083:8083'
+      - '8086:8086'
+      - '8090:8090'
+      - '9999:9999'
+    command: --reporting-disabled
+    volumes:
+      - 'influxdb-data:/var/lib/influxdb'
+
   visualization:
     image: sindan-visualization:2.6.3-alpine
     build:
@@ -101,4 +114,5 @@ secrets:
 volumes:
   fluentd-data:
   mysql-data:
+  influxdb-data:
   visualization-data:
