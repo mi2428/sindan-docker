@@ -1,5 +1,5 @@
 # This repository is not be maintained anymore!!
-This repository has been verified offically and now maintained at [SINDAN/sindan-docker](https://github.com/SINDAN/sindan-docker).
+**This repository has been verified offically and now maintained at [SINDAN/sindan-docker](https://github.com/SINDAN/sindan-docker).**
 
 ![SINDAN Project](https://raw.githubusercontent.com/mi2428/sindan-docker/screenshot/logo.png)
 
