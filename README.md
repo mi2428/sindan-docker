@@ -1,8 +1,11 @@
- ![SINDAN Project](https://raw.githubusercontent.com/mi2428/sindan-docker/screenshot/logo.png)
+# This repository is not be maintained anymore!!
+This repository has been verified offically and now maintained at [SINDAN/sindan-docker](https://github.com/SINDAN/sindan-docker).
+
+![SINDAN Project](https://raw.githubusercontent.com/mi2428/sindan-docker/screenshot/logo.png)
 
 # sindan-docker
 
-[![Build Status](https://travis-ci.com/mi2428/sindan-docker.svg?token=4rNKUsBRFsZs9zARiDBB&branch=master)](https://travis-ci.com/mi2428/sindan-docker) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) [![Issues](https://img.shields.io/github/issues/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/issues)
+[![Issues](https://img.shields.io/github/issues/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/issues)
 [![last commit](https://img.shields.io/github/last-commit/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/commits) [![Releases](https://img.shields.io/github/release/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/releases)  [![relase date](https://img.shields.io/github/release-date/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/releases)
 
 Yet another dockerization of server-side [@SINDAN](https://github.com/SINDAN) suite
@@ -83,4 +86,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 See also the list of [contributors](https://github.com/mi2428/sindan-docker/graphs/contributors) who participated in this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- ~~This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.~~
