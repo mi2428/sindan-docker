@@ -1,12 +1,9 @@
-# This repository is not be maintained anymore!!
+# This repository is not maintained anymore!!
 **This repository has been verified offically and now maintained at [SINDAN/sindan-docker](https://github.com/SINDAN/sindan-docker).**
 
 ![SINDAN Project](https://raw.githubusercontent.com/mi2428/sindan-docker/screenshot/logo.png)
 
 # sindan-docker
-
-[![Issues](https://img.shields.io/github/issues/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/issues)
-[![last commit](https://img.shields.io/github/last-commit/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/commits) [![Releases](https://img.shields.io/github/release/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/releases)  [![relase date](https://img.shields.io/github/release-date/mi2428/sindan-docker)](https://github.com/mi2428/sindan-docker/releases)
 
 Yet another dockerization of server-side [@SINDAN](https://github.com/SINDAN) suite
 - **[sindan/sindan_docker](https://github.com/SINDAN/sindan_docker)** Official repository maintained by [@shored](https://github.com/shored)
